@@ -1,0 +1,24 @@
+/* 
+* @Author: lenovo
+* @Date:   2019-06-18 11:07:18
+* @Last Modified by:   lenovo
+* @Last Modified time: 2019-06-18 17:35:08
+*/
+@charset "utf-8";
+body,ul,ol,h1,h2,h3,h4,h5,h6,p{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+img{border: none; vertical-align: top;}
+a{text-decoration: none;}
+
+.clearfix:after,.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}
+.content .show{
+	display: block;
+}
+.gWidth{
+	width: 67.5rem;
+	
+}
+
+
